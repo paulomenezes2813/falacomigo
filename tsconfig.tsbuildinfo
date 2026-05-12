@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/components/board.tsx","./src/components/phrasebar.tsx","./src/components/symbolbutton.tsx","./src/data/boards.ts","./src/hooks/usetts.ts"],"errors":true,"version":"5.9.3"}
